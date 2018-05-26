@@ -1,2 +1,5 @@
 
 this line is for「 git diff 」.
+
+
+例如 在主幹不知道在哪邊的情況下，我改了這一份文件
